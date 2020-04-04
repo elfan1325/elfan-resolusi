@@ -3,3 +3,4 @@ mobile management system
 -local odometry
 -global odomety
 rotate
+ master
